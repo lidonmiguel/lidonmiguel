@@ -23,6 +23,6 @@ Data Scientist with a strong background in data analysis, machine learning, and 
 ![](https://github-contributor-stats.vercel.app/api?username=lidonmiguel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username= lidonmiguel&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=lidonmiguel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
