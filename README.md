@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist with a strong background in data analysis, machine learning, and data engineering. Experienced in designing and building scalable data solutions, from data pipelines to predictive models, with a focus on delivering reliable and impactful insights.<br><br>Proficient in Python and SQL, with hands-on experience across the data stack including data processing, modeling, and visualization. Comfortable working with modern tools and technologies such as cloud platforms, distributed systems, and machine learning frameworks.<br><br>I’m particularly interested in leveraging data to solve complex problems, optimize systems, and drive data-informed decision making.
+Data Scientist with a strong background in machine learning, and data engineering. Experienced in designing and building scalable data solutions, from data pipelines to predictive models, with a focus on delivering reliable and impactful insights.<br><br>Proficient in Python and SQL, with hands-on experience across the data stack including data processing, modeling, and visualization. Comfortable working with modern tools and technologies such as cloud platforms, distributed systems, and machine learning frameworks.<br><br>I’m particularly interested in leveraging data to solve complex problems, optimize systems, and drive data-informed decision making.
 
 
 ## 🌐 Socials:
