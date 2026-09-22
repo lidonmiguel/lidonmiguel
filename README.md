@@ -19,7 +19,7 @@ Feel free to explore my repositories and projects! 🚀
 </td>
 <td width="35%" align="center">
 
-<img src="YOUR_GIF_URL_HERE" width="300">
+<img src="bat_bat.gif" width="300">
 
 </td>
 </tr>
