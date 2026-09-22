@@ -15,6 +15,7 @@ I'm particularly interested in using data to **solve complex problems, optimize 
 Feel free to explore my projects and repositories! 🚀
 
 <br clear="left">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lidonmiguel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mikii17_) 
 
