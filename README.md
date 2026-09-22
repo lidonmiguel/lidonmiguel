@@ -4,17 +4,17 @@
 <tr>
 <td width="65%" valign="top">
 
-### 👋 Hi there!
+# 👋 Hi there!
 
 Welcome to my GitHub! I'm a **Data Scientist** with a strong background in **Machine Learning and Data Engineering**.
 
-I enjoy turning data into useful solutions — from building **scalable data pipelines** and processing large datasets to developing **predictive models** and creating meaningful visualizations.
+I enjoy working across the data stack — from **data processing and scalable pipelines** to **machine learning models, analytics, and data visualization**.
 
-I'm mainly working with **Python and SQL**, and I have hands-on experience across the data stack, including **data processing, machine learning, cloud platforms, distributed systems, and data visualization**.
+My main tools are **Python and SQL**, complemented by experience with **cloud platforms, distributed systems, and modern machine learning frameworks**.
 
-I'm particularly interested in using data and technology to **solve complex problems, optimize systems, and support better data-driven decisions**.
+I'm particularly interested in using data to **solve complex problems, optimize systems, and build impactful data-driven solutions**.
 
-Feel free to explore my repositories and projects! 🚀
+Feel free to explore my projects and repositories!
 
 </td>
 <td width="35%" align="center">
