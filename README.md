@@ -1,5 +1,29 @@
-# 💫 About Me:
-Data Scientist with a strong background in machine learning, and data engineering. Experienced in designing and building scalable data solutions, from data pipelines to predictive models, with a focus on delivering reliable and impactful insights.<br><br>Proficient in Python and SQL, with hands-on experience across the data stack including data processing, modeling, and visualization. Comfortable working with modern tools and technologies such as cloud platforms, distributed systems, and machine learning frameworks.<br><br>I’m particularly interested in leveraging data to solve complex problems, optimize systems, and drive data-informed decision making.
+# 💫 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 👋 Hi there!
+
+Welcome to my GitHub! I'm a **Data Scientist** with a strong background in **Machine Learning and Data Engineering**.
+
+I enjoy turning data into useful solutions — from building **scalable data pipelines** and processing large datasets to developing **predictive models** and creating meaningful visualizations.
+
+I'm mainly working with **Python and SQL**, and I have hands-on experience across the data stack, including **data processing, machine learning, cloud platforms, distributed systems, and data visualization**.
+
+I'm particularly interested in using data and technology to **solve complex problems, optimize systems, and support better data-driven decisions**.
+
+Feel free to explore my repositories and projects! 🚀
+
+</td>
+<td width="35%" align="center">
+
+<img src="YOUR_GIF_URL_HERE" width="300">
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
