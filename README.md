@@ -1,6 +1,8 @@
 # 💫 About Me
 
-# <img src="bat_bat.gif" width="45" align="absmiddle"> 👋 Hi there!
+## 👋 Hi there!
+
+<img src="bat_bat.gif" width="80" align="left" style="margin-right: 15px;">
 
 Welcome to my GitHub! I'm a **Data Scientist** with a strong background in **Machine Learning and Data Engineering**.
 
@@ -12,6 +14,7 @@ I'm particularly interested in using data to **solve complex problems, optimize 
 
 Feel free to explore my projects and repositories! 🚀
 
+<br clear="left">
 
 
 ## 🌐 Socials:
