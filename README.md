@@ -1,9 +1,5 @@
 # 💫 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 # 👋 Hi there!
 
 Welcome to my GitHub! I'm a **Data Scientist** with a strong background in **Machine Learning and Data Engineering**.
