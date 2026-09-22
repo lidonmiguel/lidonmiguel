@@ -31,8 +31,6 @@ Feel free to explore my projects and repositories!
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
