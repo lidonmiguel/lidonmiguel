@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img src="bat_bat.gif" width="80" align="left" style="margin-right: 30px;">
+<img src="bat_bat.gif" width="100" align="left" style="margin-right: 100px;">
 
 **Hi there!**
 
