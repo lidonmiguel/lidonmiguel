@@ -4,13 +4,13 @@
 
 **Hi there!**
 
-Welcome to my GitHub! I'm a **Data Scientist** with a strong background in **Machine Learning and Data Engineering**.
+Welcome to my GitHub! I'm a **Data Scientist** with a strong background in Machine Learning and Data Engineering.
 
-I enjoy working across the data stack — from **data processing and scalable pipelines** to **machine learning models, analytics, and data visualization**.
+I enjoy working across the data stack — from data processing and scalable pipelines to machine learning models, analytics, and data visualization.
 
-My main tools are **Python and SQL**, complemented by experience with **cloud platforms, distributed systems, and modern machine learning frameworks**.
+My main tools are Python and SQL, complemented by experience with cloud platforms, distributed systems, and modern machine learning frameworks.
 
-I'm particularly interested in using data to **solve complex problems, optimize systems, and build impactful data-driven solutions**.
+I'm particularly interested in using data to solve complex problems, optimize systems, and build impactful data-driven solutions.
 
 Feel free to explore my projects and repositories! 🚀
 
